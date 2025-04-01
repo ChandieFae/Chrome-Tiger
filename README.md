@@ -1,67 +1,62 @@
-# Chrome-Tiger
-Master Chrome DevTools 134. Built for developers who pounce. Performance insight. 🐅
-# 🐅 Chrome Tiger
+# 🐅 Chrome-Tiger
 
 **Master Chrome DevTools 134.**  
-Built for developers who pounce. Performance insight. 🐅
+Built for developers who pounce. Performance insight. Precision instinct. 🐅
 
 ---
 
 ## 🔍 What Is Chrome Tiger?
 
-Chrome Tiger is a focused resource for exploring and mastering the most powerful features in **Chrome DevTools 134**.
+Chrome Tiger is a focused resource for mastering the sharpest tools in **Chrome DevTools 134**.
 
-From real-world performance testing to DOM optimization, Chrome Tiger is built to help you:
-- Debug smarter
-- Analyze faster
-- Ship with claws
+This isn’t just a breakdown — it’s a tiger’s-eye view into:
+- Real-world performance testing
+- DOM optimization
+- Debugging with claws, not clutter
 
 ---
 
 ## 🧰 Key Features in DevTools 134
 
-- **Privacy & Security Panel Overhaul**  
-  Simulate third-party cookie restrictions to prep for privacy-first web standards.
+- **🛡️ Privacy & Security Panel Overhaul**  
+  Simulate third-party cookie restrictions to prepare for privacy-first web changes.
 
-- **Calibrated CPU Throttling**  
-  Emulate real device performance and test your site's responsiveness under load.
+- **⚙️ Calibrated CPU Throttling**  
+  Emulate real device conditions and test performance with accuracy.
 
-- **DOM Size & Forced Reflow Warnings**  
-  Get clearer insight into bloated DOMs and layout thrashing issues.
+- **🌱 DOM Size & Forced Reflow Detection**  
+  Get insight into bloated DOMs and layout thrashing that causes jank.
 
-- **Third-Party Script Dimming**  
-  Focus on *your* code by visually separating third-party performance costs.
+- **🧩 Third-Party Script Dimming**  
+  Focus performance analysis on *your* code, not outside scripts.
 
-- **Custom Timeline Markers**  
-  Track your app behavior more precisely with annotated performance recordings.
+- **🎯 Custom Timeline Markers**  
+  Add event markers in performance recordings for clearer debugging.
 
 ---
 
-## ⚙️ Who It's For
+## ⚡ Who It’s For
 
-- Frontend developers optimizing performance  
-- Web devs debugging layout or runtime lag  
-- Tigers who debug like predators, not prey
+- Frontend developers optimizing page speed  
+- Devs fixing layout shifts, lag, or bottlenecks  
+- Anyone who inspects with purpose — and pounces with precision
 
 ---
 
 ## 📅 Version Focus
 
-This guide specifically explores updates introduced in **Chrome DevTools 134**, but may expand to future versions.
+This guide is tailored to **Chrome DevTools 134**, but future versions may be added as the tiger evolves 🐾
 
 ---
 
-## 📂 Structure (Coming Soon)
+## 🗂️ Folder Structure (coming soon)
 
 ```bash
 chrome-tiger/
 ├── features/
-├── tips/
 ├── devtools-134/
+├── tips/
 └── performance-lab/
-🐾 Join the Tiger Pack
-Want to contribute tips, insights, or tools?
-Fork, roar, and pull — we welcome all fierce developers.
 
 
 
