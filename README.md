@@ -49,7 +49,7 @@ This guide is tailored to **Chrome DevTools 134**, but future versions may be ad
 
 ---
 
-## 🗂️ Folder Structure (coming soon)
+## 🗂️ Folder Structure 
 
 ```bash
 chrome-tiger/
